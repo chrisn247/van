@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-         echo 'Hello VAN Team';
+         echo 'Hello VAN Team!!';
         ?>
     </body>
 </html>
