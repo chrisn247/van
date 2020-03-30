@@ -2,11 +2,9 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Testen</title>
     </head>
     <body>
-        <?php
-         echo 'Hello VsxsAN Team!!';
-        ?>
+        <?php echo 'Hello VsxsAN Team!!'; ?>
     </body>
 </html>
