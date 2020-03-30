@@ -5,6 +5,6 @@
         <title>Testen</title>
     </head>
     <body>
-        <?php echo 'Hello VAN  Team!!';  ?>
+        <?php echo 'Hello VAN  Team!!' ;  ?>
     </body>
 </html>
